@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jayesh Khuman
+**Backend Engineer**
 
-<!--
-**Bunny099/Bunny099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Backend-focused engineer building reliable APIs, backend systems, and developer tooling with TypeScript, Node.js, and PostgreSQL.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⌘ Currently Exploring
+* Backend architecture and production-oriented systems
+* Docker, deployment workflows, and backend infrastructure
+* Systems design and reliability-focused engineering
+
+<br>
+
+### ⚡ Tech
+`TypeScript`  •  `Node.js`  •  `Express`  •  `PostgreSQL`  •  `Prisma`  •  `Docker`  •  `REST APIs`  •  `Authentication`  •  `Next.js` 
+
+<br>
+
+### 🔗 Links
+**Portfolio**  [jayeshkhuman.in](https://jayeshkhuman.in)  
+**LinkedIn**  [in/jayeshkhuman](https://linkedin.com/in/jayeshkhuman)  
+**X (Twitter)**  [@JayeshKhuman5](https://x.com/JayeshKhuman5)
